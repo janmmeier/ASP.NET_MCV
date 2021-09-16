@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Wat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Wat\\.nuget\\packages"
+    ]
+  }
+}
